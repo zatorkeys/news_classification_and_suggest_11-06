@@ -32,7 +32,7 @@ The project is implemented as part of the **Final Project – Introduction to Da
   - `Area`: Mentioned location or region
 ---
 
-## 🧪 Data Science Workflow
+## Data Science Workflow
 
 ### 1. Data Collection
 - Crawling news articles using Python libraries
